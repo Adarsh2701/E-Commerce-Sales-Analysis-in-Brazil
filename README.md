@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis-in-Brazil
+# E-Commerce Sales Analysis in Brazil
 This repository contains an in-depth analysis of Target's e-commerce operations in Brazil from 2016 to 2018. The dataset, originally sourced from Kaggle and converted to Excel format, is uploaded to MySQL for efficient querying and data manipulation. The analysis is performed using Python in Jupyter Notebook, leveraging libraries like pandas, SQLAlchemy, and matplotlib for data processing and visualization.
 
 Dataset Overview
