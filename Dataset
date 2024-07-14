@@ -1,1 +1,2 @@
-
+This repository analyzes Target's e-commerce operations in Brazil (2016-2018) using a comprehensive dataset from Kaggle. The analysis, performed in Python and SQL within Jupyter Notebooks, includes queries to extract insights on sales, customer behavior, and performance metrics. Dataset available on Kaggle.
+Dataset link https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
