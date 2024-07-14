@@ -10,7 +10,7 @@ Payment and Shipping Performance,
 Customer Locations,
 Product Attributes,
 Customer Reviews,
-Files Included,
+Files Included.
 
 The data is split into the following CSV files:
 
@@ -23,14 +23,15 @@ orders.csv,
 products.csv.
 
 Potential Use Cases
+
 Analyzing this dataset provides insights into:
 
-Order processing
-Pricing strategies
-Payment and shipping efficiency
-Customer demographics
-Product characteristics
-Customer satisfaction
+Order processing,
+Pricing strategies,
+Payment and shipping efficiency,
+Customer demographics,
+Product characteristics,
+Customer satisfaction,
 These insights are invaluable for enhancing strategic decision-making.
 
 Queries and Analysis
