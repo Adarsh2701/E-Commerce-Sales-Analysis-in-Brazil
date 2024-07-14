@@ -4,23 +4,24 @@ This repository contains an in-depth analysis of Target's e-commerce operations 
 Dataset Overview
 The dataset covers 100,000 orders and includes detailed information on:
 
-Order Status
-Pricing
-Payment and Shipping Performance
-Customer Locations
-Product Attributes
-Customer Reviews
-Files Included
+Order Status,
+Pricing,
+Payment and Shipping Performance,
+Customer Locations,
+Product Attributes,
+Customer Reviews,
+Files Included,
 
 The data is split into the following CSV files:
 
-customers.csv
-sellers.csv
-order_items.csv
-geolocation.csv
-payments.csv
-orders.csv
-products.csv
+customers.csv,
+sellers.csv,
+order_items.csv,
+geolocation.csv,
+payments.csv,
+orders.csv,
+products.csv.
+
 Potential Use Cases
 Analyzing this dataset provides insights into:
 
