@@ -61,8 +61,8 @@ Implementation
 
 The implementation is done in Python using Jupyter Notebook. Here are the steps involved:
 
-i) Data Import: Import the data from MySQL into pandas DataFrames using SQL queries.
-ii) Data Cleaning: Handle missing values, data type conversions, and other preprocessing steps.
-iii) Query Execution: Execute the specified queries using SQL and pandas operations.
-iv) Visualization: Generate visualizations to illustrate key findings using matplotlib and seaborn.
-v) Documentation: Provide detailed explanations and interpretations of the results.
+1) Data Import: Import the data from MySQL into pandas DataFrames using SQL queries.
+2) Data Cleaning: Handle missing values, data type conversions, and other preprocessing steps.
+3) Query Execution: Execute the specified queries using SQL and pandas operations.
+4) Visualization: Generate visualizations to illustrate key findings using matplotlib and seaborn.
+5) Documentation: Provide detailed explanations and interpretations of the results.
