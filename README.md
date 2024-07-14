@@ -11,6 +11,7 @@ Customer Locations
 Product Attributes
 Customer Reviews
 Files Included
+
 The data is split into the following CSV files:
 
 customers.csv
