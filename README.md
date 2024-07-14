@@ -60,6 +60,7 @@ Advanced Queries
 Implementation
 
 The implementation is done in Python using Jupyter Notebook. Here are the steps involved:
+
 i) Data Import: Import the data from MySQL into pandas DataFrames using SQL queries.
 ii) Data Cleaning: Handle missing values, data type conversions, and other preprocessing steps.
 iii) Query Execution: Execute the specified queries using SQL and pandas operations.
